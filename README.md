@@ -3,10 +3,13 @@
   <h2 align="center">Hi 👋, I'm JIU</h2>
   <h3 align="center">Backend & AI Developer</h3>
 
-  - 🌱 I’m currently studying **Computer Science** at **EWHA** Womans University.
-  - 🔭 I’m focusing on **Machine Learning** and **Deep Learning** with **Python**.
-  - 💻 I have experience in developing **Java** desktop applications.
-  - 💻 I’ve developed web service **backends** using **Flask**.
+  🌱 I’m currently studying **Computer Science** at **EWHA** Womans University.
+  <br/>
+  🔭 I’m focusing on **Machine Learning** and **Deep Learning** with **Python**.
+  <br/>
+  💻 I have experience in developing **Java** desktop applications.
+  <br/>
+  💻 I’ve developed web service **backends** using **Flask**.
    
   <h3>Tech Stacks</h3>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
