@@ -7,7 +7,7 @@
   - 👨‍💻 I have experience in **Java** desktop application development.
   - 🔭 I have developed web service **backends** using **Flask**.
    
-  <h2>Tech Stacks</h2>
+  <h3>Tech Stacks</h3>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
   <br/>
-  <h2>Contact</h2>  
+  <h3>Contact</h3>  
   <a href="mailto:jiu.jung.cs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a> 
