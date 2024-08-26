@@ -1,9 +1,9 @@
 <div align="center">
 
   <h1 align="center">Hi 👋, I'm JIU</h1>
-  <h3 align="center">Backend/AI developer from South Korea.</h3>
+  <h3 align="center">Backend/AI developer from South Korea</h3>
 
-  - 🌱 I’m currently learning **ML/DL** with **Python**
+  - 🌱 I’m currently learning **ML/DL** with **Python**.
   - 👨‍💻 I have experience in **Java** desktop application development.
   - 🔭 I have developed web service **backends** using **Flask**.
    
