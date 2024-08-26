@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jiu31/jiu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m currently exploring the world of Machine Learning and Deep Learning with Python.
 
 My tech stack includes:
