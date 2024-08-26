@@ -4,8 +4,8 @@
   <h3 align="center">Backend/AI developer from South Korea.</h3>
 
   - 🌱 I’m currently learning **AI**
-  - 👨‍💻 I have experience in Java desktop application development.
-  - 🔭  have developed web service **backends** using Flask.
+  - 👨‍💻 I have experience in **Java** desktop application development.
+  - 🔭  have developed web service **backends** using **Flask**.
    
   <h2>Tech Stacks</h2>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
