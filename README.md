@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="center">Hi 👋, I'm Jiwoo</h1>
+  <h1 align="center">Hi 👋, I'm JIU</h1>
   <h3 align="center">Backend/AI developer from South Korea.</h3>
 
   - 🌱 I’m currently learning **AI**
