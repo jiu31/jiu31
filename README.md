@@ -5,7 +5,7 @@
 
   🌱 I’m currently studying **Computer Science** at **EWHA** Womans University.
   <br/>
-  🔭 I’m focusing on **Machine Learning** and **Deep Learning** with **Python**.
+  🔭 I’m focusing on **ML/DL** and **Computer Graphics** for my **Capstone Project**.
   <br/>
   💻 I have experience in developing **Java** desktop applications.
   <br/>
